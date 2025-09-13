@@ -1,2 +1,2 @@
 # projeto-dna-bsb
-web page project to BSB DNA
+web page project for BSB DNA
