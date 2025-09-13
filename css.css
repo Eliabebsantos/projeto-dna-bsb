@@ -2,7 +2,6 @@ body{
             background-color: rgb(190,222,25);
         }
         h1{
-            border: solid rgb(143, 172, 0) 1px;
             font-family: 'Open Sans';
             font-size: 100px;
             text-align: center;
@@ -52,4 +51,12 @@ body{
             padding: 20px;
             
             
+        }
+
+        .legend{
+            font-family: 'Open Sans';
+            font-size: 20px;
+            text-align: center;
+            margin: 1;
+            position: relative;
         }
